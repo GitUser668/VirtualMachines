@@ -13,6 +13,8 @@ This repository serves as a space where I document and share my experiments, con
 ## Why This Lab?
 Virtual machines are a powerful tool for isolating environments, testing configurations, and experimenting safely. By sharing my journey, I hope to not only track my own progress but also provide useful insights for others exploring similar setups.
 
+VM Screenshot:  [https://github.com/GitUser668/VirtualMachines/blob/main/VMs.png] 
+
 ## Stay Tuned
 I'll continue to update this repository with new labs, experiments, and findings as I work on different projects. Feel free to explore and use the information here for your own learning.
 
